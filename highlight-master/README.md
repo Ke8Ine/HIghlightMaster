@@ -1,1 +1,0 @@
-# Tested in Opera GX
